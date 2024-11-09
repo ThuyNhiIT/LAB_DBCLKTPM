@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module04\Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2855349787.index
+3161779437.index
+1636294864.index
+2493866985.index
+3785115620.index
+3617312122.index
+4048142313.index

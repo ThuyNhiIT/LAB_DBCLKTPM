@@ -1,0 +1,6 @@
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\bin\Debug\PhamThiThuyNhi_21054781.dll
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\bin\Debug\PhamThiThuyNhi_21054781.pdb
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\obj\Debug\ClassLibrary_Bai03.csproj.AssemblyReference.cache
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\obj\Debug\ClassLibrary_Bai03.csproj.CoreCompileInputs.cache
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\obj\Debug\PhamThiThuyNhi_21054781.dll
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781\PhamThiThuyNhi_21054781\obj\Debug\PhamThiThuyNhi_21054781.pdb

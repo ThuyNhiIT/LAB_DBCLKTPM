@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\HK1-N4\\DBCLKTPM\\ThucHanh\\Module04\\PhamThiThuyNhi_Module04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7219E332-D2CA-468B-AA52-E51E67FCA4B7}|PhamThiThuyNhi_Module04\\PhamThiThuyNhi_Module04.csproj|d:\\desktop\\hk1-n4\\dbclktpm\\thuchanh\\module04\\phamthithuynhi_module04\\phamthithuynhi_module04\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7219E332-D2CA-468B-AA52-E51E67FCA4B7}|PhamThiThuyNhi_Module04\\PhamThiThuyNhi_Module04.csproj|solutionrelative:phamthithuynhi_module04\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Desktop\\HK1-N4\\DBCLKTPM\\ThucHanh\\Module04\\PhamThiThuyNhi_Module04\\PhamThiThuyNhi_Module04\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PhamThiThuyNhi_Module04\\UnitTest1.cs",
+              "ToolTip": "D:\\Desktop\\HK1-N4\\DBCLKTPM\\ThucHanh\\Module04\\PhamThiThuyNhi_Module04\\PhamThiThuyNhi_Module04\\UnitTest1.cs",
+              "RelativeToolTip": "PhamThiThuyNhi_Module04\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:02:11.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
